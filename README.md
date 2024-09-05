@@ -1,4 +1,3 @@
-![Dark Violet Background](https://via.placeholder.com/1200x600/4B0082/FFFFFF?text=Your+GitHub+Profile)  
 
 # 💫 About Me:  
 🔭 I’m currently working on Daadgam project<br>👯 I’m looking to collaborate on Alireza Rafiee<br>🤝 I’m looking for help with PR.Alireza Nazmiyeh <br>🌱 I’m currently learning front<br>💬 Ask me about nothing<br>⚡ Fun fact you know 1 is not equal 1  
